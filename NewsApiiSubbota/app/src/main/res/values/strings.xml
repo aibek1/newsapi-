@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="api_key">9c74e031860e4528bc8e9ec78f768123</string>
+    <string name="country">ru</string>
+    <string name="news_image">newsImage</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+</resources>
