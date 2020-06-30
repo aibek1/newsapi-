@@ -1,2 +1,2 @@
-# newsapi-
+# newsapi
 retrofit2 ru
